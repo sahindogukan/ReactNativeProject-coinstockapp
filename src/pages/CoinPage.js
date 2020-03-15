@@ -72,7 +72,7 @@ export default class CoinList  extends Component {
 
             <View style={styles.searchInput}>
                 <View style={styles.headerName}>
-                    <Text style={styles.headerNameText}>CryptoStockMarket</Text>
+                    <Text style={styles.headerNameText}>CoinStockApp</Text>
                     <Text style={styles.headerNameText2}>sahindogukan.github.io</Text>
                 </View>
                 <TextInput

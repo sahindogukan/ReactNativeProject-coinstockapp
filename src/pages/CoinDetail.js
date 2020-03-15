@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+﻿import React, { Component } from 'react';
 import { StyleSheet, Text, View,Image,TouchableOpacity,Button } from 'react-native';
 
 export default class CoinDetail extends Component {
@@ -8,7 +8,7 @@ export default class CoinDetail extends Component {
     return (
       <View style={styles.container}>
         <View style={styles.headerName}>
-          <Text style={styles.headerNameText}>CryptoStockMarket</Text>
+          <Text style={styles.headerNameText}>CoinStockApp</Text>
         </View>
         <View style={styles.coinDetail}>
           <Image source={{uri: `https://www.coinlore.com/img/${item.nameid}.png`}} style={{width:128,height:128}} />
