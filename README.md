@@ -20,6 +20,6 @@ Data API: https://www.coinlore.com
  
  ## Ekran Görüntüleri
  
- (https://github.com/sahindogukan/ReactNativeProject-coinstockapp/blob/master/home1.png) 
- (https://github.com/sahindogukan/ReactNativeProject-coinstockapp/blob/master/detail1.png)
- (https://github.com/sahindogukan/ReactNativeProject-coinstockapp/blob/master/detail2.png)
+ ![](https://github.com/sahindogukan/ReactNativeProject-coinstockapp/blob/master/home1.png) 
+ ![](https://github.com/sahindogukan/ReactNativeProject-coinstockapp/blob/master/detail1.png)
+ ![](https://github.com/sahindogukan/ReactNativeProject-coinstockapp/blob/master/detail2.png)
